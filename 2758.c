@@ -1,0 +1,39 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2758
+Data        : 09/04/2026
+Objetivo    : Ler quatro números reais e exibi-los em diferentes formatos, incluindo valor original, casas decimais específicas, notação científica e parte inteira.
+Aprendizado : Compreender a diferença entre float e double e aplicar corretamente os especificadores de formatação no printf para controlar precisão, notação científica e representação dos números.
+-------------------------------------------------------------------------- */
+#include <stdio.h>
+
+int main() {
+
+    float A, B;
+    double C, D;
+
+    scanf("%f %f", &A, &B);
+    scanf("%lf %lf", &C, &D);
+
+    printf("A = %f, B = %f\n", A, B);
+    printf("C = %f, D = %f\n", C, D);
+  
+    printf("A = %.1f, B = %.1f\n", A, B);
+    printf("C = %.1f, D = %.1f\n", C, D);
+
+    printf("A = %.2f, B = %.2f\n", A, B);
+    printf("C = %.2f, D = %.2f\n", C, D);
+
+    printf("A = %.3f, B = %.3f\n", A, B);
+    printf("C = %.3f, D = %.3f\n", C, D);
+
+    printf("A = %.3E, B = %.3E\n", A, B);
+    printf("C = %.3E, D = %.3E\n", C, D);
+
+    printf("A = %.0f, B = %.0f\n", A, B);
+    printf("C = %.0f, D = %.0f\n", C, D);
+
+    return 0;
+}
