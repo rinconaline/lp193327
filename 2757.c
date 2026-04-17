@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 2757
+Programa    : https://judge.beecrowd.com/en/problems/view/2757
 Data        : 09/04/2026
 Objetivo    : Ler três valores inteiros e exibi-los com diferentes formatações de saída.
 Aprendizado : Utilizar especificadores de formatação no printf para controlar o alinhamento, largura e preenchimento dos números na saída.
