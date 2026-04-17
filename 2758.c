@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 2758
+Problema:   : https://judge.beecrowd.com/en/problems/view/1013
 Data        : 09/04/2026
 Objetivo    : Ler quatro números reais e exibi-los em diferentes formatos, incluindo valor original, casas decimais específicas, notação científica e parte inteira.
 Aprendizado : Compreender a diferença entre float e double e aplicar corretamente os especificadores de formatação no printf para controlar precisão, notação científica e representação dos números.
