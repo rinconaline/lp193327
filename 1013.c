@@ -1,8 +1,8 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
 Linguagem   : C
-Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 1013
+Programa    : https://judge.beecrowd.com/en/problems/view/1013
 Data        : 07/04/2026
 Objetivo    : Ler três valores inteiros e determinar o maior entre eles.
 Aprendizado : Utilizar operações matemáticas e a função abs para comparar valores e encontrar o maior sem usar estruturas condicionais.
