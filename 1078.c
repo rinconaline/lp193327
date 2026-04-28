@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1078
+Data        : 07/04/2026
+Objetivo    : Calcuar a tabuada
+Aprendizado : Utilização de for
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
