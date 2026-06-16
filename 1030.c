@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1030
+Data        : 16/06/2026
+Objetivo    : Resolver o problema clássico de Flavious Josephus utilizando uma abordagem iterativa eficiente (programação dinâmica).
+Aprendizado : Aplicação de modelagem matemática e aritmética modular para otimizar problemas de eliminação circular sem o uso de simulação por listas.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int josephus(int n, int k) {
