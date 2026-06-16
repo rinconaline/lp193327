@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1383
+Data        : 16/06/2026
+Objetivo    : Validar se uma matriz 9x9 resolvida de Sudoku é válida, checando a soma (45) e o produto (362880) de todas as linhas, colunas e submatrizes 3x3.
+Aprendizado : Manipulação de matrizes bidimensionais, uso de loops aninhados para varredura de subregiões e aplicação de propriedades matemáticas para validação de conjuntos.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main()
