@@ -1,3 +1,13 @@
+
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1028
+Data        : 07/04/2026
+Objetivo    : Calcular o Máximo Divisor Comum (MDC) entre a quantidade de figurinhas de dois amigos utilizando o algoritmo de Euclides.
+Aprendizado : Implementação de estruturas de repetição encadeadas e o algoritmo de Euclides para encontrar o MDC.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
