@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1175
+Data        : 16/06/2026
+Objetivo    : Ler um vetor de 20 posições e inverter a ordem de seus elementos, trocando o primeiro com o último, o segundo com o penúltimo, etc.
+Aprendizado : Manipulação de vetores (arrays unidimensionais), lógica de inversão de elementos utilizando uma variável auxiliar (swap) e controle de índices espelhados.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
