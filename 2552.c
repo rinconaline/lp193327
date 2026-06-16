@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/2552
+Data        : 16/06/2026
+Objetivo    : Gerar o tabuleiro do jogo "Pão de Queijo Sweeper", mapeando a posição dos pães (9) e contando os adjacentes nas direções ortogonais.
+Aprendizado : Manipulação de matrizes bidimensionais, leitura contínua até o fim do arquivo (EOF) e verificação de limites de índices vizinhos (fronteiras).
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
