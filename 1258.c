@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1258
+Data        : 16/06/2026
+Objetivo    : Ordenar uma lista de camisetas personalizadas por cor (ascendente), tamanho (descendente: P, M, G) e nome do estudante (ascendente).
+Aprendizado : Manipulação de estruturas (structs), uso de funções de comparação personalizadas (strcmp), ordenação de registros e leitura de strings com espaços.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <string.h>
 
