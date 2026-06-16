@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1180
+Data        : 16/06/2026
+Objetivo    : Ler um valor N e um vetor X[N], identificar o menor elemento presente nesse array e a sua respectiva posição (índice).
+Aprendizado : Manipulação de vetores de tamanho dinâmico (VLA), varredura linear de arrays e lógica de busca pelo valor mínimo e armazenamento de índices.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int main() {
