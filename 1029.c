@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Programa    : https://judge.beecrowd.com/en/problems/view/1029
+Data        : 16/06/2026
+Objetivo    : Calcular o valor de um termo na sequência de Fibonacci de forma recursiva e contar o número total de chamadas de função necessárias.
+Aprendizado : Compreensão de recursividade, árvore de chamadas de funções e utilização de variáveis globais para contagem de execuções.
+-------------------------------------------------------------------------- */
 #include<stdio.h>
 
 int n = 0;
